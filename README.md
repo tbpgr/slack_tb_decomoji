@@ -2,7 +2,7 @@
 
 ## List
 |デコ文字|ファイル名|日本語|
-|--|:--:|--|
+|:---:|:---:|---|
 |![alt](./images/conflict.png)|conflict|コンフリクト|
 |![alt](./images/context.png)|context|コンテキスト|
 |![alt](./images/degrade.png)|degrade|デグレ|
