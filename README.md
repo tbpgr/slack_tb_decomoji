@@ -3,6 +3,7 @@
 ## List
 |デコ文字|ファイル名|日本語|
 |:---:|:---:|---|
+|![alt](./images/attouteki.png)|attouteki|圧倒的|
 |![alt](./images/conflict.png)|conflict|コンフリクト|
 |![alt](./images/context.png)|context|コンテキスト|
 |![alt](./images/degrade.png)|degrade|デグレ|
@@ -10,6 +11,7 @@
 |![alt](./images/hantai.png)|hantai|反対|
 |![alt](./images/i_want_you.png)|i_want_you|君が欲しい|
 |![alt](./images/igiari.png)|igiari|異議あり！|
+|![alt](./images/kansha.png)|kansha|感謝|
 |![alt](./images/kyoka_shazai.png)|kyoka_shazai|許可より謝罪|
 |![alt](./images/lgtm.png)|lgtm|LGTM|
 |![alt](./images/matta.png)|matta|待った！|
