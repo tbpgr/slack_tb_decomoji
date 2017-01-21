@@ -13,6 +13,7 @@
 |![alt](./images/i_want_you.png)|i_want_you|君が欲しい|
 |![alt](./images/igiari.png)|igiari|異議あり！|
 |![alt](./images/kansha.png)|kansha|感謝|
+|![alt](./images/karano.png)|karano|からの|
 |![alt](./images/kyoka_shazai.png)|kyoka_shazai|許可より謝罪|
 |![alt](./images/lgtm.png)|lgtm|LGTM|
 |![alt](./images/matta.png)|matta|待った！|
