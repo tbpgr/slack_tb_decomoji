@@ -8,6 +8,7 @@
 |![alt](./images/context.png)|context|コンテキスト|
 |![alt](./images/degrade.png)|degrade|デグレ|
 |![alt](./images/dry.png)|dry|DRY|
+|![alt](./images/english.png)|english|英語|
 |![alt](./images/funky.png)|funky|Funcky|
 |![alt](./images/hantai.png)|hantai|反対|
 |![alt](./images/i_want_you.png)|i_want_you|君が欲しい|
