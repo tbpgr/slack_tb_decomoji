@@ -10,8 +10,10 @@
 |![alt](./images/dry.png)|dry|DRY|
 |![alt](./images/english.png)|english|英語|
 |![alt](./images/emoi.png)|emoi|エモい|
+|![alt](./images/formalize.png)|formalize|形式化|
 |![alt](./images/funky.png)|funky|Funcky|
 |![alt](./images/hantai.png)|hantai|反対|
+|![alt](./images/implicit.png)|implicit|暗黙化|
 |![alt](./images/i_want_you.png)|i_want_you|君が欲しい|
 |![alt](./images/igiari.png)|igiari|異議あり！|
 |![alt](./images/kansha.png)|kansha|感謝|
